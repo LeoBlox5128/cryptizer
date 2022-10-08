@@ -18,7 +18,7 @@ Linux/Windows only. Mac not tested, but it should work.
 You can go to the [releases](https://github.com/LeoBlox5128/cryptizer/releases/), and continue there. I have instructions for every supported OS.
 
 ## 📖 Documentation
-v1.0.0 --
+Version: v1.0.0 --
 
 After running the file, you should see something like this:
 
