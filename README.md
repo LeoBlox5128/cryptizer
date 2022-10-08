@@ -22,7 +22,7 @@ Latest version: 1.0.0 --
 
 After running the file, you should see something like this:
 
-	Enter full cryptocurrency token name > 
+`Enter full cryptocurrency token name > `
 
 Type in the cryptocurrency name. Some examples are Bitcoin, Ethereum, Dogecoin.
 
@@ -31,7 +31,7 @@ Type in the cryptocurrency name. Some examples are Bitcoin, Ethereum, Dogecoin.
 
 If you've already typed the cryptocurrency name, in this example Bitcoin, you should see this:
 
-	1 Bitcoin --> 19502.01$
+`1 Bitcoin --> 19502.01$`
 
 Good job! You have acquired the current price of Bitcoin!
 <br>Note that you may get other results. I'm certainly sure it won't be 19502.01$ when you check it.
